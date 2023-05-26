@@ -31,6 +31,7 @@ public class App
     	opt.addArguments("--remote-allow-origins=*");
     	
     	System.out.println("updated the code by karan");
+    	System.out.println("committed by karan for 2nd time");
     	
     WebDriver driver=new ChromeDriver(opt);
     
